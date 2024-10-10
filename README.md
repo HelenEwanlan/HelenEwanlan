@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm Helen Ewanlan
+A professional Data Analyst
+I am enthusiastic about collaborating with like-minded individuals in the data space.
+You could reach me on WhatsApp via: +2348160837648
 <!--
 **HelenEwanlan/HelenEwanlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
